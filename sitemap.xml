@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on February 25, 2025 at 5:27 pm by All in One SEO v4.7.9.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://edeh2003.github.io/Portfolio-Website-by-Chukwuebuka/default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://edeh2003.github.io/Portfolio-Website-by-Chukwuebuka/post-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-09T15:16:07+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://edeh2003.github.io/Portfolio-Website-by-Chukwuebuka/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2025-02-25T15:16:28+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://edeh2003.github.io/Portfolio-Website-by-Chukwuebuka/category-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2023-04-09T15:16:07+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
